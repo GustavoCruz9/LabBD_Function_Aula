@@ -42,11 +42,11 @@ select * from Funcionario
 select * from Dependente
 
 -- Exercicio 1) Criar uma database, criar as tabelas abaixo, definindo o tipo de dados e a relação PK/FK e popular
---com alguma massa de dados de teste (Suficiente para testar UDFs)
---a) Código no Github ou Pastebin de uma Function que Retorne uma tabela:
---(Nome_Funcionário, Nome_Dependente, Salário_Funcionário, Salário_Dependente)--
---b) Código no Github ou Pastebin de uma Scalar Function que Retorne a soma dos Salários dos
---dependentes, mais a do funcionário.
+-- com alguma massa de dados de teste (Suficiente para testar UDFs)
+-- a) Código no Github ou Pastebin de uma Function que Retorne uma tabela:
+--    (Nome_Funcionário, Nome_Dependente, Salário_Funcionário, Salário_Dependente)--
+-- b) Código no Github ou Pastebin de uma Scalar Function que Retorne a soma dos Salários dos
+--    dependentes, mais a do funcionário.
 
 -- a)
 
