@@ -159,6 +159,12 @@ end
 
 select * from fn_exec2B(50)
 
+-- Criar, uma UDF, que baseada nas tabelas abaixo, retorne
+-- Nome do Cliente, Nome do Produto, Quantidade e Valor Total, Data de hoje
+-- Tabelas iniciais:
+-- Cliente (Codigo, nome)
+-- Produto (Codigo, nome, valor)
+
 create table cliente (
 	codigo		int,
 	nome		varchar(100)
